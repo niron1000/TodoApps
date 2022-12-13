@@ -1,0 +1,26 @@
+[
+    {
+      "name": "Learn Javascript",
+      "category": "School",
+      "create_at": "20-Oct-2022",
+      "badge": "2"
+    },
+    {
+      "name": "Watch Worldcup Final",
+      "category": "Personal",
+      "create_at": "18-Dec-2022",
+      "badge": "4"
+    },
+    {
+        "name": "Shopping with mom",
+        "category": "Personal",
+        "create_at": "18-Dec-2022",
+        "badge": "4 "
+      },
+      {
+        "name": "Play football",
+        "category": "Exercise",
+        "create_at": "07-Dec-2022",
+        "badge": "3"
+      }
+  ]
